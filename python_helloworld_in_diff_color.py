@@ -1,0 +1,13 @@
+import sys
+sys.stdout.write("\033[1;30m")
+print ("Hello World")
+sys.stdout.write("\033[1;31m")
+print ("Hello World")
+sys.stdout.write("\033[1;32m")
+print ("Hello World")
+sys.stdout.write("\033[1;33m")
+print ("Hello World")
+sys.stdout.write("\033[1;35m")
+print ("Hello World")
+sys.stdout.write("\033[1;36m")
+print ("Hello World")
